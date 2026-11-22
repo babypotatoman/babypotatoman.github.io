@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:이;정은;;;
+FN:이정은
+ORG:FREE-COS
+TITLE:주임
+TEL;TYPE=CELL:010-5437-9218
+TEL;TYPE=WORK,VOICE:032-324-7333
+TEL;TYPE=WORK,FAX:0303-3440-9143
+EMAIL;TYPE=INTERNET:freecos@hanmail.net
+URL:https://www.freecos.net
+ADR;TYPE=WORK:;;신흥로 223\, 101동 11층 1111호 (중동\, 신중동역 랜드마크 푸르지오 시티);부천시;경기도;14539;대한민국
+END:VCARD
